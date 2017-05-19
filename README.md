@@ -13,4 +13,11 @@ This static prototype represents a rendering of a GOV.UK page with change histor
 The prototype is designed to explore the technical feasibility of rendering change history
 in a current GOV.UK page.
 Considerations around page size would mean that this history could be requested
-asynchronously with graceful degradation to a page of changes.
+asynchronously with graceful degradation to [a page of changes](https://steventux.github.io/govuk-content-history-prototypes/enhanced-change-notes/linked-changes-version-3.html).
+
+### Linked example
+
+[Linked change history](https://steventux.github.io/govuk-content-history-prototypes/enhanced-change-notes/linked-changes.html)
+
+This static prototype explores the idea of linking current content to a bespoke _diff_ rendering.
+Links are presented where different versions of the content exist.
